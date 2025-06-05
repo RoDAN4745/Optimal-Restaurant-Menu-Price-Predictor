@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# macOS / Linux / Windows
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+
+# Logs
+*.log
+
+# Excel backup files
+~$*
+
+# Flask cache
+instance/
+*.db
+*.sqlite3
