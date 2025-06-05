@@ -26,3 +26,7 @@ pip install -r requirements.txt
 
 # Run the app
 python app.py
+![image](https://github.com/user-attachments/assets/29a11f9f-6147-4885-886c-305a2df1de77)
+
+![image](https://github.com/user-attachments/assets/3662264c-0373-48d7-8940-6d1f18272a11)
+
